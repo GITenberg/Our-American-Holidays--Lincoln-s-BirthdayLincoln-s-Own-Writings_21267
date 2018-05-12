@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8328
     wikipedia: http://en.wikipedia.org/wiki/Robert_Haven_Schauffler
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21267#Our-American-Holidays--Lincoln-s-BirthdayLincoln-s-Own-Writings
 gutenberg_issued: '2007-05-02'
 gutenberg_type: Text
 identifiers:
